@@ -20,7 +20,7 @@ Feel free to check out my repos and letâ€™s build something amazing together! ðŸ
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HEETKUMBHARANA2369&theme=react-dark)
 
 ### Achievements
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=HEETKUMBHARANA2369&theme=monokai)
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=HEETKUMBHARANA2369&theme=tokyonight)
 
 ---
 
