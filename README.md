@@ -13,8 +13,9 @@ Feel free to check out my repos and letâ€™s build something amazing together! ðŸ
 ---
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HEETKUMBHARANA2369&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HEETKUMBHARANA2369&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HEETKUMBHARANA2369&show_icons=true&theme=cobalt)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HEETKUMBHARANA2369&layout=compact&theme=cobalt)
+
 
 ### Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HEETKUMBHARANA2369&theme=react-dark)
