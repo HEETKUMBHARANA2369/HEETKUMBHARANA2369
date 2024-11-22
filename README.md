@@ -25,8 +25,8 @@ Feel free to check out my repos and letâ€™s build something amazing together! ðŸ
 ---
 
 ### Tech Stack
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CustomTkinter Badge](https://img.shields.io/badge/CustomTkinter-FF6F61?style=for-the-badge&logo=python&logoColor=white)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
